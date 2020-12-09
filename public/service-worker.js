@@ -4,7 +4,8 @@ const FILES_TO_CACHE = [
     "/index.html",
     "/style.css",
     "/index.js",
-    // manifest and db should be listed here? ask TA
+    "/manifest.webmanifest",
+    "/db.js",
     "/icon/icon-192x192.png",
     "/icon/icon-512x512.png"
   ];
